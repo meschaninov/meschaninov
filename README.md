@@ -4,9 +4,9 @@
 ### FullStack Developer at Network Group & Ultimate Group
 
 
-## Tech Stack:
+## 💻 Tech Stack:
 
-### Languages & Frameworks
+### 📚 Languages & Frameworks
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" alt="python"  />
@@ -14,19 +14,19 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,vue,react" height="40" alt="js"  />
 </div>
 
-### Infrastructure & Databases
+### 🌐 Infrastructure & Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" height="40" alt="infra"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40" alt="databases"  />
 </div>
 
-### Tools & Environment
+### 🧰 Tools & Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,webstorm" height="40" alt="tools"  />
 </div>
 
-## My Contacts :
+## 🔗 My Contacts :
 
 <div align="center">
 
