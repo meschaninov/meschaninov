@@ -34,3 +34,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:meschaninov53@gmail.com)
 
 </div>
+![](https://komarev.com/ghpvc/?username=meschaninov)
