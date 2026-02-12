@@ -2,6 +2,7 @@
 
 # 👨‍💻 Artem Meschaninov
 ### FullStack Developer at Network Group & Ultimate Group
+![](https://komarev.com/ghpvc/?username=meschaninov)
 
 ## Tech Stack:
 
@@ -32,5 +33,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sibereum)
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sibereum)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:meschaninov53@gmail.com)
-![](https://komarev.com/ghpvc/?username=meschaninov)
 </div>
