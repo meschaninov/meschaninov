@@ -9,9 +9,9 @@
 ### Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" alt="python"  />
+  <img src="https://skillicons.dev/icons?i=py,fastapi" height="40" alt="python"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,vue,react" height="40" alt="js"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,vue" height="40" alt="js"  />
 </div>
 
 ### Infrastructure & Databases
