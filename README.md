@@ -16,7 +16,7 @@
 
 ### Infrastructure & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" height="40" alt="infra"  />
+  <img src="https://skillicons.dev/icons?i=docker,nginx" height="40" alt="infra"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40" alt="databases"  />
 </div>
